@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/rec2">
+        <file>sakurabg.gif</file>
+    </qresource>
+</RCC>
